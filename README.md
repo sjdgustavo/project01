@@ -1,4 +1,4 @@
-# 🧮 project01 - Pipeline de Dados
+# 🧮 project01
 
 Esse é um projeto de exemplo da minha Faculdade de Pós Graduação em Engenharia de Dados. 
 Um pipeline modular de **ingestão**, **enriquecimento** e **refinamento** de dados utilizando **Python**, **SQL** e **DuckDB**.  
